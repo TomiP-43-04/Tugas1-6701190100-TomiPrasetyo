@@ -1,0 +1,4 @@
+nama	: Tomi Prasetyo
+nim	: 6701190100
+tempat tanggal lahir	: Kediri,
+ipk terakhir	: 
